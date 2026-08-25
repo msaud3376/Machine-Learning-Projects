@@ -1,0 +1,10 @@
+{
+  "n_component_classes": 3,
+  "input_vocab_sizes": {
+    "CPU_Model": 44,
+    "GPU_Model": 34,
+    "Motherboard_Model": 17,
+    "RAM_Capacity": 9,
+    "Target_Resolution": 5
+  }
+}
